@@ -1,6 +1,6 @@
 {
-	"prefix" : ">",
-	"token" : "Your bot Token",
-	"ownerID" : "Your user ID: using developer mode on discord, right click on yourself and then copy ID",
-	"dbotAuth" : "https://discordapp.com/oauth2/authorize?&client_id=(HERE YOU MUST PUT YOUR CLIENT ID WITHOUT PARENTHESIS)&permissions=(HERE YOU MUST PUT THE PERMISSIONS CODE WITHOUT PARENTHESIS)&scope=bot"
+	"prefix" : "k.",
+	"token" : "ODM5NzY2NjA4MzczMjE5MzU4.YJObmQ.z-8BB_zFtcXAbPZHcv0h-yJ20Wk",
+	"ownerID" : "763343243265966100",
+	"dbotAuth" : "https://discord.com/api/oauth2/authorize?client_id=839766608373219358&permissions=8&scope=bot"
 }
